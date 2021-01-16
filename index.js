@@ -62,7 +62,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] Lexa siap di jalankan, scan kode QR dengan whatsapp!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] FDHY siap di jalankan, scan kode QR dengan whatsapp!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -79,7 +79,7 @@ conn.on('user-presence-update', json => console.log(json.id + ' presence is => '
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : ''
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => Im Lexa :)`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => Im FDHY :)`)
 })
 
 conn.on('message-new', async(m) =>
