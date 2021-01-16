@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfzvx12/Arelbot"
+    "url": "git+https://github.com/fadhilhy/botfdhy4.0"
   },
   "keywords": [
     "K"
   ],
-  "author": "mrf.zvx",
+  "author": "FADHIL HIDAYAT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfzvx12/Arelbot/issues"
+    "url": "https://github.com/fadhilhy/botfdhy4.0/issues"
   },
-  "homepage": "https://github.com/mrfzvx12/Arelbot#readme"
+  "homepage": "https://github.com/fadhilhy/botfdhy4.0#readme"
 }
